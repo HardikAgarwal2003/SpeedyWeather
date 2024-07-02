@@ -9,5 +9,6 @@ Weather Android Application with a minimalistic, responsive and beautiful UI, us
 3. OpenWeather API, etc.
 
 **Technology Used** :- 
-1. Kotlin
-2. XML
+1. Android
+2. Kotlin
+3. XML
